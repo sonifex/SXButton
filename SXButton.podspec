@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SXButton'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SXButton.'
+  s.summary          = 'Simple UIButton. Easy to change cornerRadius, borderWidth and borderColor'
 
   s.homepage         = 'https://github.com/sonifex/SXButton'
 
