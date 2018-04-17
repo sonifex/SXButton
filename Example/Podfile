@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SXButton_Example' do
+  pod 'SXButton', :path => '../'
+
+  target 'SXButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
