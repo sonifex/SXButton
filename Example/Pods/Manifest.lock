@@ -1,0 +1,16 @@
+PODS:
+  - SXButton (0.1.0)
+
+DEPENDENCIES:
+  - SXButton (from `../`)
+
+EXTERNAL SOURCES:
+  SXButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SXButton: 325f10106bb4c264c8a4a6b880ac855b893babba
+
+PODFILE CHECKSUM: 2265df30189030e416996402aceee33ecacf6f28
+
+COCOAPODS: 1.5.0

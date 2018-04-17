@@ -28,11 +28,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		019243E8FB05B7C0BDD6D905 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		019243E8FB05B7C0BDD6D905 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		15B260E13168F52B3475A329 /* Pods-SXButton_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SXButton_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SXButton_Tests/Pods-SXButton_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		1D8D078B678C4F2051700F54 /* SXButton.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SXButton.podspec; path = ../SXButton.podspec; sourceTree = "<group>"; };
+		1D8D078B678C4F2051700F54 /* SXButton.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SXButton.podspec; path = ../SXButton.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		492EB2C642EAAB50321396BD /* Pods-SXButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SXButton_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SXButton_Tests/Pods-SXButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		50018EE7F4215F6847E0A350 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		50018EE7F4215F6847E0A350 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* SXButton_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SXButton_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
